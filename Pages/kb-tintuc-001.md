@@ -10,7 +10,7 @@ tags:
 
 ## 1. Phần mở đầu (0:00 - 0:30)
 
-Chào Cô Gì Chú Bác cùng tất cả mọi người. Hôm nay Cháu xin mạn phép nêu lên một một vấn đề có thể nói là nhức cái nách trong thời đại Gen Z... Đây là vấn đề tưởng chừng rất đơn giản không có gì để bàn cãi vì nó xảy ra thường xuyên hàng ngày ấy mà. Vâng đó chính là vấn đề lạm dụng một số từ tiếng Anh, đặc biệt là những từ như: "Ok, Goát tờ phắc, Sờ Lây..." 
+Chào Cô Gì Chú Bác cùng tất cả mọi người. Hôm nay Cháu xin mạn phép nêu lên một một vấn đề có thể nói là nhức cái nách trong thời đại Gen Z tụi cháu... Đây là vấn đề tưởng chừng rất đơn giản không có gì để bàn cãi vì nó xảy ra thường xuyên hàng ngày ấy mà. Vâng đó chính là vấn đề lạm dụng một số từ tiếng Anh, đặc biệt là những từ như: "Ok, Goát tờ phắc, Sờ Lây..." 
 
 Chắc hẳn mọi người đã từng một lần hỏi han ai đó kiểu như "bạn có sao không", hay đại loại như "con làm được không"... và nhận về câu trả lời còn ngắn hơn cả cái kiến thức mấy năm đèn sách của cháu nữa.
 
@@ -34,36 +34,28 @@ Khi được khứa bạn thân hỏi về độ đẹp của Gệ! thay vì OK 
 
 Từ Slay cũng được các bạn trẻ hay dùng, vậy rốt cuộc nó là cái quái gì nhỉ ?
 
-Ờ ờ, theo như lời con Deepseek thần thánh thì Slay vốn có nghĩa là 'giết chết', nhưng Gen Z dùng nó để khen ai đó làm điều gì đó xuất sắc. thành thử chúng ta có một cách nói ngầu như trái bầu như thế này.
+Ờ ờ, theo như lời con Deepseek thần thánh thì Slay vốn có nghĩa là 'giết chóc', nhưng Gen Z dùng nó để khen ai đó làm điều gì đó xuất sắc. thành thử chúng ta có một cách nói ngầu như trái bầu như thế này.
 
 Ví dụ:  
 Bạn: Hôm nay là lần đầu tiên tao làm đủ bài tập về nhà!
 Bạn của bạn: 'mày Slay quá!'  
 ...Ủa, ghê chưa, ghê chưa,như vậy cũng 'slay' cho được hả trời!
 
-Theo cả nhà thì nên trả lời bằng tiếng Việt như thế nào cho đủ độ ngầu, xin mọi người thông cái não dùm cháu nhé.
+Theo cả nhà thì nên trả lời bằng tiếng Việt như thế nào cho đủ độ ngầu ạ, cả nhà để lại ý kiến phía dưới phần bình loạn nhé. Còn với để diễn tả về độ ngầu hay độ sáng chói của một ai đó thì đơn giản chỉ là "Đỉnh nóc kịch trần bay pháp phới" vậy thôi. 
 
-Chưa hết còn nhiều lắm, đặc sắc nhất vẫn là hai từ "gót tờ phắc" và "OMG"
+Chưa hết còn nhiều lắm, đặc sắc nhất vẫn là hai từ "gót tờ phắc" và "OMG". Cháu thấy hai từ này không có cai gì gọi là liên quan tới tiếng Việt sất. Lại theo con DeepSeek, hai từ nay hay xuất hiện lúc chúng ta xem phim, mà phim ghì thì cả nhà tự biết nhé.
 
+Hì hì, cháu cả gan đoán bừa là phim Mỹ và Châu Âu cả nhà ạ.
 
 ## 3. Phần tương tác với khán giả (5:00 - 6:00)
 
-"Bạn có hay dùng những từ này không? Hãy comment bên dưới xem bạn đã từng lạm dụng từ nào nhé!"
-
-"Nếu bạn từng nhận được một tin nhắn 'K' và cảm thấy... hơi 'sợ', hãy like video này để tôi biết tôi không đơn độc nhé!"  
+Bà Con Cô bác có khi nào dùng những từ này hơn 3 lần trong một cuộc nói chuyện không? 
+Hãy bình luận thêm những từ bá đạo mà mọi người hay dùng phía dưới phần bình luận nhé.
 
 ## 4. Phần kết thúc (6:00 - 7:00)
 
-"Vậy là chúng ta đã cùng khám phá cách bạn có thể đang lạm dụng từ 'OK' và một số từ tiếng Anh khác mà không hề hay biết. Hãy cẩn thận nhé, vì ngôn ngữ là một thứ rất quan trọng – và đôi khi, cách bạn dùng nó có thể khiến người khác 'phát điên'!"
+Còn bây giờ!
+Chúc Bà Con Co Bác, đặc biệt là cá bạn nhỏ có cách kết hợp ngoại ngữ vào tiếng Việt sao cho hay đẹp và ý nghĩa nhé.
 
-Kêu gọi like, share, và đăng ký kênh: "Nếu bạn thấy video này thú vị, đừng quên like, share và đăng ký kênh để xem thêm nhiều nội dung hài hước nhé!"
+Nếu bạn thấy video này thú vị, đừng quên like, share và đăng ký kênh để xem thêm nhiều nội dung hài hước nhé!
 
-Teaser cho video tiếp theo: "Video tiếp theo chúng ta sẽ nói về những cụm từ tiếng Anh 'khó đỡ' khác mà Gen Z đang sáng tạo. Nhớ đón xem nhé! OK? K? OKAY? PERIODT!"  
-
-Một số ý tưởng bổ sung:
-
-Thêm các hình ảnh meme vui nhộn về "OK", "K", và các từ khác.
-
-Sử dụng giọng đọc biểu cảm và nhạc nền trending để tăng tính giải trí.
-
-Chèn các clip ngắn từ TikTok hoặc YouTube về cách Gen Z dùng những từ này.
