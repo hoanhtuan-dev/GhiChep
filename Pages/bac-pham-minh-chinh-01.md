@@ -6,7 +6,7 @@ tags:
   - danh-nhan
 ---
 
-# Bác Phạm Minh Chính 01
+# Bác Nguyễn Phú Trong Tới Phạm Minh Chính 01
 
 ### Bài hát: "Lửa và Khát vọng"
 
