@@ -1,13 +1,14 @@
 ---
-id: 1742399578-KXAS
+id: binh-luan-ve-30-4-2025
 aliases:
-  - video-ve-30-4
+  - Bình luận về 30-4-2025
 tags: []
 ---
 
-# video-ve-30-4
+# Bình luận về 30-4-2025
 
 ## Y Tuong
+
 Từng vị học trò của Chủ tịch Hồ Chí Minh khoe chiến thắng 30-4.
 Video thể hiện tự hào và xúc động của mỗi người học trò của Bác. Lồng ghép những đoạn nhạc hào hùng dân tộc và những đoạn ghi âm của loa phát thanh thời bấy giờ.
 
@@ -24,4 +25,6 @@ Video thể hiện tự hào và xúc động của mỗi người học trò c�
 
 - Nhưng có những niềm vui rất châm biếm, lại có niềm vui đến từ sự thương hại, đến từ sự quan ngại sâu sắc, nghe qua có vẻ sai trái khi bạn giải trí từ nỗi khổ đau của kẻ khác?. Nhưng khoan đã! chậm lại khoảng hai giây, không phải người già nào cũng đáng kính, không phải người thất thế nào cũng đáng thương? Bạn thấy như nào khi có một kẻ đi cướp rồi đốt nhà, gây thảm cảnh cho người khác và cho chính kẻ đó, rồi quay sang thù hận oán trách tự phân vai cho minh là kẻ bị hại, còn những người nạn nhân lại bao dung độ lượng, họ sẵn sàng gác lại thù hận và hướng tới tương lai tốt đẹp hơn.
 
-- Xem Không nói thừ cả nhà cũng biết đối tượng em đang cà khịa phải không? Vâng em cũng chẳng cần nói bóng gió làm gì cho mệt. Đúng rồi, em cà khịa một nhúm người tự biến mình thành người tỵ nạn ở xứ dân chửi ca li. Nhúm người đã phản bội và bán rẻ tổ quốc bán rẻ lương tâm để nhận giặc làm cha. Họ những người 3 que tỵ nạn đời đầu, bây giờ thì loe ngoe được mấy chục hoặc mấy ngàn không ai biết, cứ mỗi dịp 30 tháng tư về lại tự bịt mũi và phun ra những giọng điệu mà chính mình không giám ngưởi, mục đích chính thì nhiều nhưng theo em thấy có hai mục đich chính: đầu tiên là trả thù nước Mỹ, vì sao lạ vậy? chửi Việt Nam chửi cộng sản thì ảnh hưởng gì tới nước Mỹ cơ chứ, xin thưa là rất liên quan là đằng khác. Cả nhà biết đấy! nước Mỹ luôn tự hào mình là cường quốc quân sự mạnh nhất thế giới, 
+- Xem Không nói thừ cả nhà cũng biết đối tượng em đang cà khịa phải không? Vâng em cũng chẳng cần nói bóng gió làm gì cho mệt. Đúng rồi, em cà khịa một nhúm người tự biến mình thành người tỵ nạn ở xứ dân chửi ca li. Nhúm người đã phản bội và bán rẻ tổ quốc bán rẻ lương tâm để nhận giặc làm cha. Họ những người 3 que tỵ nạn đời đầu, bây giờ thì loe ngoe được mấy chục hoặc mấy ngàn không ai biết, cứ mỗi dịp 30 tháng tư về lại tự bịt mũi và phun ra những giọng điệu mà chính mình không giám ngưởi, mục đích chính thì nhiều nhưng theo em thấy có hai mục đich chính: đầu tiên là trả thù nước Mỹ, vì sao lạ vậy? chửi Việt Nam chửi cộng sản thì ảnh hưởng gì tới nước Mỹ cơ chứ, xin thưa là rất liên quan là đằng khác. Cả nhà biết đấy! nước Mỹ luôn tự hào mình là cường quốc quân sự mạnh nhất thế giới, ấy vậy mà khi sang Việt Nam lại bị đập cho sấp mặt cả chủ lẫn tớ gồm 5 quốc gia bao gồm: Hàn Quốc, Úc, New Zealand, Thái Lan, Philippines cộng thêm chế độ tay sai Ngụy quyền. Mỹ cay lắm nhưng chẳng làm gì được đành làm thinh cho đỡ nhực,   
+
+- Con cháu tưởng thật đỡ coi thường.
