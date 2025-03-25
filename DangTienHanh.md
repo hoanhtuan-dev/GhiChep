@@ -1,12 +1,14 @@
 ---
 id: DangTienHanh
-aliases:
-  - dang-tien-trien
-tags:
-  - dang-tien-trien
+aliases: []
+tags: []
 ---
 
 # Công Việc Đang Tiến Triển
 
-- [ ] [[binh-luan-ve-30-4-2025|Bình luận về 30-4-2025]]
+- [x] [[binh-luan-ve-30-4-2025|Bình luận về 30-4-2025]]
+
+- [>] [[con-duong-luu-vong-cua-danh-he-zelensky|Châm biếm về con đường phá tan hoang đất nước của Zelensky]] 
+
+- [>] Hôm hay có ý tưởng gì không
 
