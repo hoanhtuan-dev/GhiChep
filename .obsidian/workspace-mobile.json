@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ff2e6dc4c29c4851",
+        "id": "494a5531b7e72ec1",
         "type": "tabs",
         "children": [
           {
-            "id": "e199d80d8ff3245d",
+            "id": "84f644a1cf14dd71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/con-duong-luu-vong-cua-danh-he-zelensky.md",
+                "file": "Đang Tiến Hành.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "con-duong-luu-vong-cua-danh-he-zelensky"
+              "title": "Đang Tiến Hành"
             }
           }
         ]
@@ -59,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#dang-tien-hanh",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -94,6 +84,16 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "23876a13551ca06e",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "sheets-in-box",
+          "title": "File Tree"
+        }
       }
     ],
     "currentTab": 1
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Pages/con-duong-luu-vong-cua-danh-he-zelensky.md",
+            "file": "Đang Tiến Hành.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,12 +127,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.canvas",
+            "file": "Đang Tiến Hành.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
           "icon": "links-going-out",
-          "title": "Outgoing links"
+          "title": "Liên kết đi ra"
         }
       },
       {
@@ -141,13 +141,23 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.canvas",
+            "file": "Đang Tiến Hành.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
           },
           "icon": "lucide-list",
-          "title": "Outline"
+          "title": "Đề cương"
+        }
+      },
+      {
+        "id": "10ae3cce2cc3e95f",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
@@ -160,11 +170,21 @@
       "canvas:Tạo bảng mới": false,
       "daily-notes:Mở ghi chú hôm nay": false,
       "templates:Chèn mẫu": false,
-      "command-palette:Mở khay lệnh": false
+      "command-palette:Mở khay lệnh": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e199d80d8ff3245d",
+  "active": "84f644a1cf14dd71",
   "lastOpenFiles": [
+    "cau-chuyen-ve-tien-sy-vung-the-du.md",
+    "Đang Tiến Hành.md",
+    "Pages/con-duong-luu-vong-cua-danh-he-zelensky.md",
+    "Ý Tưởng.md",
+    "Pages/binh-luan-ve-30-4-2025.md",
+    "Canvas/Chưa đặt tên.canvas",
+    "Pages/phe-binh-su-nghiep-chuong.md",
+    "Pages/chu-de-am-nhac-va-ke-chuyen.md",
     "NhatKy/10-03-25.md",
     "Canvas/thử can vas.canvas",
     "Canvas",

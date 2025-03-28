@@ -5,7 +5,7 @@ aliases:
 tags:
   - amnhac
   - trietly
-  - nhatky
+  - nhat-ky
 ---
 
 # Chủ Đề Âm Nhạc Và Kể Chuyện

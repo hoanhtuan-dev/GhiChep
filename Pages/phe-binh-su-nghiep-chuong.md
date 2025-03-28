@@ -4,7 +4,6 @@ aliases:
   - Phê bình sự nghiệp cướng
 tags:
   - binh-luan
-  - phe-binh
 ---
 
 # Phê bình sự nghiệp cướng
