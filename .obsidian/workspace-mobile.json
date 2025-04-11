@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Đang Tiến Hành.md",
+                "file": "Pages/con-duong-luu-vong-cua-danh-he-zelensky.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Đang Tiến Hành"
+              "title": "con-duong-luu-vong-cua-danh-he-zelensky"
             }
           }
         ]
@@ -96,7 +96,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 4
   },
   "right": {
     "id": "0af4e1455383f1d6",
@@ -177,8 +177,8 @@
   },
   "active": "84f644a1cf14dd71",
   "lastOpenFiles": [
-    "cau-chuyen-ve-tien-sy-vung-the-du.md",
     "Đang Tiến Hành.md",
+    "cau-chuyen-ve-tien-sy-vung-the-du.md",
     "Pages/con-duong-luu-vong-cua-danh-he-zelensky.md",
     "Ý Tưởng.md",
     "Pages/binh-luan-ve-30-4-2025.md",
