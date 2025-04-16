@@ -1,0 +1,2 @@
+# {{tite}}
+Ngày tạo: {{date}}
