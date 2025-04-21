@@ -5,4 +5,10 @@ tags: diem-tin
 
 # Trang Chính Điểm Tin
 
-[[diem-tin-16-4-2025| Điểm tin ngày 16 tháng 4 2025 ]]
+[[diem-tin-15-4-2025| Điểm tin ngày 15 tháng 4 2025 ]]
+
+[[diem-tin-18-4-2025| Điểm tin ngày 18 tháng 4 2025 ]]
+
+[[diem-tin-19-4-2025| Điểm tin ngày 19 tháng 4 2025 ]]
+
+[[diem-tin-23-4-2025| Điểm tin ngày 23 tháng 4 2025 ]]
