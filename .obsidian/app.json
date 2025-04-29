@@ -29,5 +29,6 @@
     "editor:toggle-keyboard"
   ],
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "promptDelete": false
 }
