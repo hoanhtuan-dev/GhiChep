@@ -1,10 +1,11 @@
 @document.meta
 title: DiemTin-05-2025
 authors: Anh Tuấn Dev
-categories: diem-tin, tin-tuc
-created: 2025-05-03T20:03:06+0800
+categories: Điểm tin
+created: Thứ bảy ngày 3 tháng 5 năm 2025 
 @end
 
 * Trang điểm tin 05-2025
 
-  - (-) [Điểm tin thế giới ngày 05-05-2025]{:$ghiChep/Pages/diem-tin-05-05-2025:}
+  - (x) [Điểm tin thế giới ngày 05-05-2025]{:$ghiChep/Pages/diem-tin-05-05-2025:}
+  - (-) [Điểm tin thế giới ngày 07-05-2025]{:$ghiChep/Pages/diem-tin-07-05-2025:}
