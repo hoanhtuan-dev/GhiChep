@@ -1,6 +1,4 @@
-Dưới đây là phân tích một kịch bản video YouTube hấp dẫn, với các yếu tố thiết yếu giúp người xem chú ý và tiếp tục xem tiếp:
-
----
+# Dưới đây là phân tích một kịch bản video YouTube hấp dẫn, với các yếu tố thiết yếu giúp người xem chú ý và tiếp tục xem tiếp:
 
 ### **1. Tiêu đề và hình ảnh (Title & Thumbnail)**  
 - **Tiêu đề (Title):**  
@@ -13,8 +11,6 @@ Dưới đây là phân tích một kịch bản video YouTube hấp dẫn, vớ
     - Bảng chữ cái, bài học, người thầy, cây cối, sách vở.  
   - Màu sắc: Tươi sáng, có tính năng (ví dụ: màu xanh dương cho sự chuyên nghiệp, màu vàng cho sự năng động).  
 
----
-
 ### **2. Mở đầu (Intro)**  
 - **Mục tiêu:** Khơi gợi sự quan tâm, giới thiệu nội dung.  
 - **Cách thực hiện:**  
@@ -24,8 +20,6 @@ Dưới đây là phân tích một kịch bản video YouTube hấp dẫn, vớ
     - "Học tiếng Việt không dễ, nhưng nếu bạn có phương pháp đúng, bạn sẽ tiến bộ nhanh chóng!"  
   - **Thời gian:** 1-2 phút.  
   - **Kỹ thuật:** Dùng âm thanh (nhạc nền nhẹ, giọng nói vui tươi) để tạo cảm giác thư giãn.  
-
----
 
 ### **3. Nội dung chính (Main Content)**  
 - **Mục tiêu:** Truyền đạt kiến thức, giải pháp, hoặc trải nghiệm.  
