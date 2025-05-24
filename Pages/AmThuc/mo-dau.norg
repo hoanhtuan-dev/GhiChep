@@ -88,14 +88,11 @@ Phần đầu tiên là tổng hợp những món ăn thịnh hành cho khách d
 *** (16-20 giây):
     - Hình ảnh: Sợi phở được cắt, thịt bò tái xào, rau 
 thơm tươi mát.
-
     - Hiệu ứng: Chuyển động nhanh, phối hợp nhiều hiệu 
 ứng màu sắc.
-
     - Lời nói: “… ăn cùng thịt bò tái hoặc xào, rau thơm 
 đặc trưng tươi mát. Phở Hà Nội nói riêng và Phở Việt nói 
 chung là biểu tượng của văn hóa, của sự thanh lịch.”
-
     - Lời nói (củng cố): “Nguyên liệu chất lượng cao, bí 
 quyết lâu đời, tạo nên hương vị độc đáo, khó quên.”
 
@@ -103,30 +100,73 @@ quyết lâu đời, tạo nên hương vị độc đáo, khó quên.”
     - Hình ảnh: Logo kênh Youtube và tên video xuất hiện 
 với hiệu ứng "fade out" nhẹ nhàng.
 
-** Bánh Mì: (0:45)
-
-   - Hiệu ứng: 
-     Chữ “Bánh Mì” biến đổi thành hình bánh mì, hình ảnh bánh mì Sài Gòn.
-
-   - Nội dung: 
-     Bánh Mì – Sự Kết Hợp Hoàn Hảo, từ Sài Gòn đến khắp Việt Nam.
-
-*** Giọng dẫn: 
-    Tiếp theo là ‘Bánh Mì’ – sự kết hợp hoàn hảo, từ Sài Gòn đến khắp Việt Nam! Bánh mì Sài Gòn với những nguyên liệu tươi ngon, độc đáo… một món ăn vừa ngon vừa rẻ, chinh phục khẩu vị của mọi người.”
-
+** Bánh Mì: Hương Vị Việt Nam (0:45)
 *** Lời dẫn: 
-    Tiếp theo là ‘Bánh Mì’ – sự kết hợp hoàn hảo, một biểu tượng ẩm thực toàn cầu! *Vỏ bánh mì giòn tan*, kết hợp cùng nhiều loại *nhân đa dạng*: pate, thịt nguội, chả, xíu mại… cùng *rau thơm tươi mát* tạo nên sự cân bằng hoàn hảo. *Bánh mì Việt Nam* không chỉ là món ăn nhanh, mà còn là sự pha trộn độc đáo giữa các nền văn ẩm thực. *Hương vị phong phú*, *đậm đà*, *tự do sáng tạo* 
+    “Hãy tưởng tượng mình đang thưởng thức một chiếc bánh mì thơm ngát, vỏ bánh mì giòn tan, tan trong miệng, để lại vị giác thỏa mãn. *Vỏ bánh mì giòn tan*, kết hợp cùng nhiều loại *nhân đa dạng*: pate, thịt nguội, chả, xíu mại… cùng *rau thơm tươi mát* tạo nên sự cân bằng hoàn hảo. *Bánh mì Việt Nam* không chỉ là món ăn nhanh, mà còn là sự pha trộn độc đáo giữa các nền văn ẩm thực. *Hương vị phong phú*, *đậm đà*, *tự do sáng tạo* – một trải nghiệm ẩm thực đáng nhớ!”
+
+    - Phong cách:** Động, sáng tạo, sử dụng màu sắc tươi sáng, kết hợp các hiệu ứng 3D và typography hiện đại.
+    - Âm nhạc:** Nhạc nền sôi động, mang âm hưởng Việt Nam.
+
+*** (0-3 giây)
+    - Hình ảnh: Màn hình đen. Từ từ hiện lên hình ảnh một chiếc bánh mì Việt Nam hoàn chỉnh, 3D, với các lớp vỏ bánh, nhân, rau thơm được hiển thị một cách chi tiết.
+    -   Hiệu ứng: Zoom in từ từ vào bánh mì, tạo cảm giác khám phá.
+    - Âm thanh:** Tiếng "cào" khi cắt bánh mì, tiếng "rưới" khi thêm nước sốt, kết hợp với âm nhạc nền.
+
+*** (3-10 giây) – Trình Bày Nhân
+    - Hình ảnh: Các thành phần nhân bánh mì (pate, thịt nguội, chả, xíu mại, rau thơm) xuất hiện một cách độc đáo.
+    - Hệu ứng: Sử dụng các vector 3D để mô phỏng các nguyên liệu, cho phép xem xét chi tiết. Các nguyên liệu "bay" vào bánh mì, tạo cảm giác tươi mới và đầy ắp.
+    - Typography:  Liệt kê các thành phần nhân với hiệu ứng chữ bay.
+
+*** (10-20 giây) – Sự Kết Hợ
+    - Hình ảnh: Bánh mì được "tái tạo" một cách nhanh chóng, các thành phần nhân được sắp xếp hoàn hảo.
+    - Hiệu ứng: Sử dụng các particle effects để mô phỏng sự kết hợp các nguyên liệu.
+    - Sử dụng timeline animation để thể hiện quy trình làm bánh mì một cách trực quan.
+    - Typography:  Sử dụng các dòng chữ ngắn gọn, thể hiện giá trị của bánh mì: "Giòn Tan", "Đậm Đà", "Thơm Ngát".
+
+*** (20-30 giây) – Trải Nghiệ
+    - Hình ảnh: Một người dùng (có thể là avatar 3D) đang thưởng thức bánh mì, có hiệu ứng như đang "đắm mình" vào hương vị. Sử dụng hiệu ứng ánh sáng để tăng thêm sự hấp dẫn. Sử dụng hiệu ứng zoom nhẹ để tăng thêm sự tập trung vào chiếc bánh mì.
+
+*** (30-45 giây) – Thông Điệp & Kết Thú
+    - Hình ảnh: hiển thị hình ảnh tổng thể của bánh mì và thông điệp: "Bánh 
+      Mì: Hương Vị Việt Nam - Sự Kết Hợp Hoàn Hảo!".
+    - Âm thanh:  Nhạc nền lên cao, hiệu ứng âm thanh tích cực.
 
 ** Gỏi Cuốn: (0:45)
 
-   - Hiệu ứng: 
-     Chữ “Gỏi Cuốn” biến đổi thành hình cuộn cuốn.
+*** Lời dẫn: 
+    Gỏi cuốn Việt Nam – một món ăn thanh mát, tươi ngon! *Vỏ bánh tráng dẻo mềm* cuộn cùng *rau sống xanh mướt*, *thịt heo tươi* (tôm, thịt heo, hoặc mực) và *gia vị thanh mát* *nước chấm đậm đà*. *Gỏi cuốn* không chỉ là món ăn nhẹ, mà còn là một trải nghiệm ẩm thực độc đáo với cách thưởng thức cuốn mềm, cuốn chặt. *“Cuốn mềm, cuốn chặt, ngon cự kỳ!” *nguyên liệu tươi ngon*, *hương vị cân bằng*, *thưởng thức ngay* gỏi cuốn Việt Nam! *“Tươi mát – Thanh lịch – Đậm đà”*!
 
-   - Nội dung: 
-     Gỏi Cuốn – Hương Vị Biển Cả – Giải nhiệt những ngày hè!”
+*** Thời lượng:* 45 giây
+    *Phong cách:* Động, sáng tạo, màu sắc tươi sáng *Âm nhạc:* Nhạc nền thư giãn, mang âm hưởng biển cả
 
-*** Giọng dẫn: 
-    Và đừng quên ‘Gỏi Cuốn’ – hương vị biển cả, giải nhiệt những ngày hè nóng bức! Cuộn cuốn tươi ngon, đầy đủ dinh dưỡng… một món ăn nhẹ nhàng, thích hợp cho mọi lứa tuổi.”
+*** Phân cảnh 1: Mở đầu (0-3 giây)*
+    - Animation: Fade in Effect: Zoom in (nguồn gốc: trung tâm, thời gian: 1 giây)
+    - Element:
+    - Hình ảnh: Cuốn gỏi cuốn hoàn chỉnh (3D, màu xanh, trắng)
+    - Typography: Logo 'Gỏi Cuốn Việt Nam' (font hiện đại, màu xanh)
+
+*** Phân cảnh 2: Trình Bày Nhân (3-10 giây)*
+    - Animation: Các nguyên liệu nhân xuất hiện từ các hướng khác nhau.
+    - Effect: 3D, Particle Effects
+    - Element:
+      Rau sống (xanh mướt) Tôm (màu hồng tươi) Thịt heo (màu hồng) Mực (màu đen) Gia vị (màu vàng) Typography: Liệt kê các thành phần nhân (chữ bay)
+
+*** Phân cảnh 3: Sự Kết Hợp (10-20 giây)*
+    - Animation: Cuốn bánh nhanh chóng, các thành phần được sắp xếp hoàn hảo.
+    - Effect: Timeline animation (quá trình cuốn bánh)
+    - Typography:  "Thanh Mát", "Tươi Đẹp", "Vị Ngon"
+
+*** Phân cảnh 4: Trải Nghiệm (20-30 giây)*
+    - Animation: Một người dùng thưởng thức gỏi cuốn, có hiệu ứng “đắm mình” vào hương vị.
+    - Effect: Zoom nhẹ, hiệu ứng ánh sáng
+    - Element: Avatar 3D thưởng thức gỏi cuốn
+
+*** Phân cảnh 5: Thông Điệp & Kết Thúc (30-45 giây)*
+    - Animation: Hình ảnh tổng thể và thông điệp
+    - Effect: Chuyển cảnh mượt mà
+    - Element:
+      Hình ảnh: Cuốn gỏi cuốn (toàn cảnh)
+      Thông điệp: "Gỏi Cuốn Việt Nam - Vị Ngon, Đậm Đà!"
 
 * Phần 3: Các Món Ẩm Đặc Trưng (1:30 – 4:30)
 
@@ -135,10 +175,8 @@ với hiệu ứng "fade out" nhẹ nhàng.
 *** Lời dẫn: 
     Gỏi cuốn Việt Nam – một món ăn thanh mát, tươi ngon! *Vỏ bánh tráng dẻo mềm* cuộn cùng *rau sống xanh mướt*, *thịt heo tươi* (tôm, thịt heo, hoặc mực) và *gia vị thanh mát* *nước chấm đậm đà*. *Gỏi cuốn* không chỉ là món ăn nhẹ, mà còn là một trải nghiệm ẩm thực độc đáo với cách thưởng thức cuốn mềm, cuốn chặt. *“Cuốn mềm, cuốn chặt, ngon cự kỳ!” *nguyên liệu tươi ngon*, *hương vị cân bằng*, *thưởng thức ngay* gỏi cuốn Việt Nam! *“Tươi mát – Thanh lịch – Đậm đà”*!
 
-
    - Hiệu ứng: 
      Chữ “Bánh Xèo” biến đổi thành hình bánh xèo giòn tan. Zoom cận cảnh người làm bánh.
-
    - Nội dung: 
      Bánh Xèo – Vẻ Đẹp Của Hạt, hương vị miền Trung!”
 
@@ -152,7 +190,6 @@ với hiệu ứng "fade out" nhẹ nhàng.
 
    - Hiệu ứng: 
      Chữ “Cao Lầu” biến đổi thành hình bánh cao lầu. Zoom cận cảnh.
-
    - Nội dung: 
      Cao Lầu – Bí Quyết Hội An – Hương vị độc đáo!”
 
