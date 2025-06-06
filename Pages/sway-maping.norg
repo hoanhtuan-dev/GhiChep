@@ -1,0 +1,52 @@
+# === SwayWm Maping === #
+$mod+Return       --> $term
+$mod+Shift+q      --> kill
+$mod+q            --> kill
+$mod+d            --> $menu
+$mod+a            --> $launcher
+$mod1+Space       --> $launcher
+$mod+Ctrl+Delete  --> $powermenu
+$mod+Shift+c      --> reload
+$mod+Shift+e      --> Exit sway
+$mod+$left        --> focus left
+$mod+$down        --> focus down
+$mod+$up          --> focus up
+$mod+$right       --> focus right
+$mod+Left         --> focus left
+$mod+Down         --> focus down
+$mod+Up           --> focus up
+$mod+Right        --> focus right
+$mod+Shift+$left  --> focus move left
+$mod+Shift+$down  --> focus move down
+$mod+Shift+$up    --> focus move up
+$mod+Shift+$right --> focus move right
+$mod+Shift+Left   --> focus move left
+$mod+Shift+Down   --> focus move down
+$mod+Shift+Up     --> focus move up
+$mod+Shift+Right  --> focus move right
+$mod+1            --> workspace $ws1
+$mod+2            --> workspace $ws2
+$mod+3            --> workspace $ws3
+...
+$mod+Shift+1      --> move container to workspace $ws1
+$mod+Shift+2      --> move container to workspace $ws2
+$mod+Shift+3      --> move container to workspace $ws3
+...
+$mod+w            --> layout tabbed
+$mod+s            --> layout toggle split
+$mod+f            --> fullscreen
+$mod+Shift+space  --> floating toggle
+$mod+space        --> mode_toggle
+$mod+Shift+minus  --> move scratchpad
+$mod+minus        --> scratchpad show
+$mod+r            --> mode "resize"
+$mod+b            --> $wbs
+$mod+e            --> $fm
+$mod+t            --> $term
+$mod+y            --> $term -T=yazi yazi
+$mod+f4           --> systemctl suspend && swaylock
+$mod+v            --> Danh sách clipboard
+$mod+Shift+v      --> Xóa clipboard
+$mod+Ctrl+K       --> Xem phím tăt
+$mod+Ctrl+p       --> exec speedtest-cli
+

@@ -1,0 +1,26 @@
+@document.meta
+title: archlinux
+authors: Anh Tuấn Dev
+categories: Documents
+created: 2025-06-06T21:48:01+0800
+@end
+
+* Tài liệu về Archlinux
+
+  *Xử lý sự cố không chơi được video web*
+  @code bash
+
+  sudo pacman -S pipewire pipewire-pulse pipewire-alsa wireplumbe
+
+  sudo pacman -S gst-libav gst-plugins-good gst-plugins-ugly
+
+  rm ~/.local/state/wireplumber/*
+
+  systemctl --user restart pipewire wireplumber
+
+  sudo pacman -Syu
+
+  reboot
+
+  @end
+

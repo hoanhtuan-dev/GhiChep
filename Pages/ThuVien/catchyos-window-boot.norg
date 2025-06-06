@@ -1,0 +1,20 @@
+@document.meta
+title: catchyos-window-boot
+authors: Anh Tuấn Dev
+categories: Điểm tin, Bình luận
+created: 2025-06-03T01:45:31+0800
+@end
+
+@code bash
+
+  sudo vim /etc/default/grub # bỏ ghi chú dòng: GRUB_DISABLE_OS_PROBER=false
+
+  # Chạy lệnh 
+  sudo os-prober
+
+  # Chạy lệnh đăng ký config grub
+  sudo grub-mkconfig -o /boot/grub/grub.cfg
+
+  reboot
+
+@end
