@@ -1,0 +1,115 @@
+# Macro de Calepinage - material layout positionning - GA3D.tech
+# Copyright © 2025 Alain David Geiser, Morat - Switzerland
+# Cette Macro est distribuée sous la licence LGPL-3.0-only
+# SPDX-License-Identifier: LGPL-3.0-only
+# 01.03.2025
+# Version 0.0.7
+# Commentaire : ça marche pas mal, il faut juste encore contrôler et reprendre les groupes à la fin
+general_panel_width = 2500  # mm
+saw_blade_width = 5  # mm
+
+import FreeCAD as App
+import FreeCADGui as Gui
+import Part
+from collections import defaultdict
+
+def get_individual_shapes(shape):
+    """Décompose récursivement un compound en solides individuels."""
+    if shape.ShapeType == "Compound":
+        return shape.Solids
+    return [shape]
+
+def get_shape_hash(shape):
+    """Retourne un hash basé sur le volume et les dimensions pour identifier les pièces identiques."""
+    bbox = shape.BoundBox
+    return (round(shape.Volume, 6), round(bbox.XLength, 6), round(bbox.YLength, 6), round(bbox.ZLength, 6))
+
+def align_thinnest_dimension_to_z(shape):
+    """Oriente la pièce de sorte que sa plus fine dimension soit alignée avec l'axe Z."""
+    bbox = shape.BoundBox
+    dimensions = [(bbox.XLength, (1, 0, 0)), (bbox.YLength, (0, 1, 0)), (bbox.ZLength, (0, 0, 1))]
+    dimensions.sort()  # Trie par taille croissante
+    thinnest_axis = dimensions[0][1]  # Axe correspondant à la plus petite dimension
+    
+    shape = shape.copy()  # Éviter de modifier l'original
+    if thinnest_axis == (1, 0, 0):
+        shape.rotate(App.Vector(0, 0, 0), App.Vector(0, 1, 0), 90)
+    elif thinnest_axis == (0, 1, 0):
+        shape.rotate(App.Vector(0, 0, 0), App.Vector(1, 0, 0), -90)
+    return shape
+
+def place_bottom_on_xy(shape):
+    """Déplace la pièce pour que sa face inférieure soit sur le plan XY (Z=0)."""
+    bbox = shape.BoundBox
+    shape = shape.copy()
+    shape.Placement.Base.z -= bbox.ZMin  # Ajuste la hauteur pour poser la base sur Z=0
+    return shape
+
+def pack_shapes(shapes, panel_width=general_panel_width, spacing=saw_blade_width):
+    """Place les formes de manière optimale dans un panneau de largeur définie."""
+    grouped_shapes = defaultdict(list)
+    for shape in shapes:
+        bbox = shape.BoundBox
+        grouped_shapes[(round(bbox.ZLength, 2), round(bbox.YLength, 2))].append(shape)
+    
+    x_offset, y_offset, row_height = 0, 0, 0
+    positions = []
+    
+    for group, group_shapes in grouped_shapes.items():
+        group_shapes.sort(key=lambda s: s.BoundBox.XLength, reverse=True)
+        for shape in group_shapes:
+            bbox = shape.BoundBox
+            width, height = bbox.XLength, bbox.YLength
+            
+            if x_offset + width > panel_width:  # Nouvelle ligne si dépassement de largeur
+                x_offset = 0
+                y_offset += row_height + spacing
+                row_height = 0
+            
+            positions.append((shape, x_offset, y_offset))
+            x_offset += width + spacing
+            row_height = max(row_height, height)
+        y_offset += row_height + spacing  # Ajouter un espace entre groupes
+        x_offset = 0  # Repartir à gauche après un groupe
+    
+    return positions
+
+def flatten_assembly_selection():
+    doc = App.ActiveDocument
+    if not doc:
+        print("Aucun document actif.")
+        return
+
+    selection = Gui.Selection.getSelection()
+    if not selection:
+        print("Aucune sélection.")
+        return
+
+    new_doc = App.newDocument("Flattened_Selection")
+    shape_dict = defaultdict(list)
+
+    for obj in selection:
+        if hasattr(obj, "Shape") and obj.Shape.Volume > 0:
+            for shape in get_individual_shapes(obj.Shape):
+                shape_dict[get_shape_hash(shape)].append(shape)
+
+    shapes = []
+    for shape_list in shape_dict.values():
+        for shape in shape_list:
+            aligned_shape = align_thinnest_dimension_to_z(shape)
+            final_shape = place_bottom_on_xy(aligned_shape)
+            shapes.append(final_shape)
+
+    placements = pack_shapes(shapes)
+
+    for i, (shape, x, y) in enumerate(placements):
+        new_obj = new_doc.addObject("Part::Feature", f"Part_{i}")
+        new_obj.Shape = shape
+        new_obj.Placement.Base.x = x
+        new_obj.Placement.Base.y = y
+
+    new_doc.recompute()
+    Gui.ActiveDocument = Gui.getDocument(new_doc.Name)
+    print("Sélection aplatie et optimisée pour un panneau de 2500 mm de large avec regroupement des pièces de même hauteur et épaisseur.")
+
+flatten_assembly_selection()
